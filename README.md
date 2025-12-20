@@ -18,7 +18,6 @@ Bu proje, Go ile geliştirilmiş, komut satırı üzerinden çalışan bir web s
 Projeyi klonlayın ve gerekli bağımlılıkları indirin:
 
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/go-scraper.git](https://github.com/KULLANICI_ADIN/go-scraper.git)
 cd go-scraper-proje
 go mod tidy
 
