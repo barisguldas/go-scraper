@@ -19,7 +19,7 @@ Projeyi klonlayın ve gerekli bağımlılıkları indirin:
 
 ```bash
 git clone [https://github.com/KULLANICI_ADIN/go-scraper.git](https://github.com/KULLANICI_ADIN/go-scraper.git)
-cd go-scraper
+cd go-scraper-proje
 go mod tidy
 
 ```
