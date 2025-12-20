@@ -21,3 +21,11 @@ Projeyi klonlayın ve gerekli bağımlılıkları indirin:
 git clone [https://github.com/KULLANICI_ADIN/go-scraper.git](https://github.com/KULLANICI_ADIN/go-scraper.git)
 cd go-scraper
 go mod tidy
+
+```
+## Kullanım
+
+```bash
+go run main.go (hedef url)
+
+```
