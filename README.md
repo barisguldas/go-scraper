@@ -1,6 +1,6 @@
 # Go Web Scraper 
 
-Bu proje, Go (Golang) ve `chromedp` kütüphanesi kullanılarak geliştirilmiş, komut satırı üzerinden çalışan bir web scraping (veri kazıma) aracıdır. Siber Tehdit İstihbaratı (CTI) süreçlerinde temel keşif ve veri toplama amacıyla tasarlanmıştır.
+Bu proje, Go ile geliştirilmiş, komut satırı üzerinden çalışan bir web scraping aracıdır. 
 
 ##  Özellikler
 
@@ -8,7 +8,7 @@ Bu proje, Go (Golang) ve `chromedp` kütüphanesi kullanılarak geliştirilmiş,
 - **Ekran Görüntüsü:** Sitenin tam boy ekran görüntüsünü `screenshot.png` olarak alır.
 - **Link Analizi:** Sayfadaki tüm URL'leri ayıklayıp `links.txt` dosyasına listeler.
 
-## 🛠️ Gereksinimler
+##  Gereksinimler
 
 - [Go](https://go.dev/dl/) (1.20 veya üzeri)
 - Google Chrome veya Chromium tarayıcı
