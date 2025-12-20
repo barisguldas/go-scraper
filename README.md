@@ -10,7 +10,7 @@ Bu proje, Go ile geliştirilmiş, komut satırı üzerinden çalışan bir web s
 
 ##  Gereksinimler
 
-- [Go](https://go.dev/dl/) (1.20 veya üzeri)
+- [Go](https://go.dev/dl/) 
 - Google Chrome veya Chromium tarayıcı
 
 ##  Kurulum
